@@ -1,0 +1,25 @@
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif; */
+
+.title {
+    font-size: 3em;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+nav {
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(100,100,100);
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(100,100,100);
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
