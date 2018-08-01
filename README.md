@@ -1,6 +1,6 @@
-# Liri-Node-App:
+# Web Portfolio:
 
-Assignment Update - U of T Bootcamp
+Website Portfolio Update - U of T Bootcamp
 
 
 # Description:
